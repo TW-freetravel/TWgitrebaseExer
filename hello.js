@@ -4,3 +4,4 @@ function hello(){
 function lxy() {
 	console.log('demo');
 }
+console.log('nihao');
